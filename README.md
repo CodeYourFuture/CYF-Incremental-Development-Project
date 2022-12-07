@@ -232,33 +232,33 @@ References, Tutorials and exercises to help you through this module
 
 ## Week 1
 
-This week will be a crash-course on how to plan, organize, and develop a software project. You will work in groups to reverse-engineer a website, with finished code as a starting point.
+This week will you will focus on how to plan, organize, and develop a software project. You will work in groups to reverse-engineer a website, with finished code as a starting point.
 
 <details>
 <summary>expand/collapse</summary>
 
-### Before Class
+### Prep
 
-> Do you have any questions from last week? Add the `question` label to an issue in your class repo so your coaches know what to review!
+> Do you have any questions from last week? Open a discussion topic in your team on Github and tag the people you'd like to participate.
 
 [Planning and Collaborating](./planning-and-collaborating): This is important, take your time to understand it!
 
-### During Class
+### Group Session
 
-In class you will get to know your coaches, discuss the Planning and Collaborating process, then get a start on this week's group project.
+Discuss the Planning and Collaborating process, then get a start on this week's group project.
 
-#### Before Break
+#### Intro
 
-1. Introductions from each coach
+1. Introductions or energiser
 2. Q/A time about the secret lives of developers
 3. A walk-through and discussion of [Planning and Collaborating](./planning-and-collaborating)
 
-#### After Break
+#### Focus
 
-1. As a full class, take a look through the finished [loruki-website](./loruki-website) code and discuss how it might be broken into small tasks
-2. Break into small groups and get set up for this week's group project. You should aim to have created your group's repository by the end of class.
+1. As a group, take a look through the finished [loruki-website](./loruki-website) code and discuss how it might be broken into small tasks
+2. Get set up for this week's group project. You should aim to have created your group's repository by the end of class.
 
-### After Class
+### Remote working
 
 > group project
 
@@ -266,7 +266,7 @@ This week's project is to study the [**loruki-website** tutorial](https://github
 
 This is a large project to finish in one week, it's ok if you don't finish all the code! What's most important is that you get used to the Planning and Collaborating workflows.
 
-In the tutorial, Mr. Traversy deployes his website using Netlify. For your group project you can use GitHub Pages instead.
+In the tutorial, Mr. Traversy deploys his website using Netlify. For your group project, use GitHub Pages.
 
 Here's a good way to approach the group project:
 
@@ -312,53 +312,48 @@ This week you will start a 2-week project where your group needs to reverse-engi
 <details>
 <summary>expand/collapse</summary>
 
-### Before Class
-
-> Do you have any questions from last week? Add the `question` label to an issue in your class repo so your coaches know what to review!
+### Prep
 
 You and your group should come prepared to present your Retrospective. Each group will have ~5 minutes to share how the project went last week. Keep it short and clear!
 
-Besides the Retrospectives, this Sunday will be all review and preparation for the week's project. Come ready with all sorts of questions!
+Besides the Retrospectives, this session will be review and preparation for the week's project. Come ready with all sorts of questions!
 
-### During Class
+### During Session
 
-#### Before Break
+#### Intro
 
 1. Questions & review
 2. Retrospective presentations, ~5 minutes per group
-3. Coach-led discussion of challenges and Lessons Learned
+3. Mentor-led discussion of challenges and Lessons Learned
 
-#### After Break
+#### Focus
 
 1. Read over [step 6, Development](./planning-and-collaborating/6-development.md) all together
-1. Study the hackyourfuture.be website as a full class
+1. Study the https://codeyourfuture.io/ website as a group
    - how would you break this into small steps?
    - which pieces are most important?
-1. Break into small groups and prepare your repository for the group project
+1. Prepare your repository for the group project
 
-### After Class
+### Remote Study
 
 > group project
 
-Your group will have 2 weeks to reverse-engineer as much of hackyourfuture.be as possible. If your team has some different ideas for layout or design, go for it. The HYF site is just a starting point. Beginning with an empty repository your group will need to define a backlog with priorities, create a project board full of tasks, and get coding!
+Your group will have 2 weeks to reverse-engineer as much of https://codeyourfuture.io/ as possible. If your team has some different ideas for layout or design, go for it. The assigned site is just a starting point. Beginning with an empty repository your group will need to define a backlog with priorities, create a project board full of tasks, and get coding!
 
 Pay special attention to:
 
 - [HTML/CSS Good Practice](https://www.smashingmagazine.com/2008/11/12-principles-for-keeping-your-code-clean/)
-- Using HTML5 Semantic Element
+- Using HTML5 Semantic Elements
 - Accessibility
 - Responsive Design
 
-Careful! When you inspect the hackyourfuture.be the DOM, HTML and CSS will be hard to read. The class names will be meaningless, there will be many extra nested elements, and the sources will be split into many strange files. Ignore this! You aren't trying to recreate the exact code (which is actually [written in React](https://github.com/HackYourFutureBelgium/hackyourfuture.be/tree/main/src)), you're trying to **reverse-engineer** the website - creating something that _looks_, and _feels_ like hackyourfuture.be but is not.
+Careful! When you inspect the DOM, HTML and CSS will be hard to read. The class names may be meaningless, there will be many extra nested elements, and the sources will be split into many strange files. Ignore this! You aren't trying to recreate the exact code, you're trying to **reverse-engineer** the website - creating something that _looks_, and _feels_ like this website but is not.
 
-One of the challenges with this project will be inspecting hackyourfuture.be to find the _fonts_, _colors_, _assets_ and _layout_ without losing your way in the DevTools :)
+One of the challenges with this project will be inspecting the site to find the _fonts_, _colors_, _assets_ and _layout_ without losing your way in the DevTools :)
 
 ### Issue Checklist
 
 Copy-paste this checklist into a new project issue and move your issue to the project board, your issue should have:
-
-- labels:`group`, `project`, `week-2`, `week-3`
-- milestone: `incremental-development`
 
 ```md
 - [ ] [repo](https://github.com/_/_) (with a complete README)
@@ -382,34 +377,32 @@ Copy-paste this checklist into a new project issue and move your issue to the pr
 
 ## Week 3
 
-No new material, one more week to practice planning and collaborating before learning about UX/UI Design.
+Second week of reverse engineering sprint.
 
 <details>
 <summary>expand/collapse</summary>
 
-### Before Class
+### Prep
 
-> Do you have any questions from last week? Add the `question` label to an issue in your class repo so your coaches know what to review!
+Prep your tickets and come to the session ready to discuss.
 
-Nothing new! Come ready to discuss your group's work last week, and to share tips for a better next week.
+### Group Session
 
-### During Class
-
-#### Before Break
+#### Intro
 
 1. Questions & review
 2. ~5 minute status report from each group
 3. Discussion of challenges and Lessons Learned
 
-#### After Break
+#### Focus
 
-Git workshop! Come ready with your questions and your git conflicts from the week.
+Git hangout! Come ready with your questions and your git conflicts from the week.
 
-### After Class
+###  Remote Study
 
 > group project
 
-Finish building as much of hackyourfuture.be as possible before Friday. On Friday or Saturday your group should gather to discuss how the project went and to fill out your Retrospective.
+Finish building as much of your website as possible before Friday. On Friday or Saturday your group should gather to discuss how the project went and to fill out your Retrospective.
 
 You can move your group issue into "Ready for Review" after you have finished your Retrospective. Just like the first week's project, you will be assessed on your planning and collaborating not on a finished project.
 
@@ -420,84 +413,6 @@ You can move your group issue into "Ready for Review" after you have finished yo
 
 ---
 
-# Class Recordings
-
-> note for students: HYF modules are constantly being improved, recordings from past classes may not be the same as what you did on Sunday
-
-- **Students**: Here you can find recordings of this module from past classes. Enjoy!
-- **Coaches**: When sending your PR's with links please ...
-  - Indicate which class you were teaching
-  - Which week it was (if the module is more than 1 week)
-  - Give your name
-  - and a helpful description
-
-## [Class 9 & 10](https://hackyourfuturebelgium.github.io/class-9-10)
-
-> Stéphane, Tiago, Louise, Dirk, Kevin
-
-- Week 1
-  - [Part 1](https://vimeo.com/419992403) - Isolation
-  - [Part 2](https://vimeo.com/419993111) - Integration
-  - [Part 3](https://vimeo.com/419991575) - Homework explanation
-- Week 2
-  - [Part 1](https://vimeo.com/422148962) - Resolving Git Conflicts
-  - [Part 2](https://vimeo.com/422149182) - Development Strategies
-  - [Part 3](https://vimeo.com/422347127) - Homework explanation
-- Week 3
-  - [Part 1](https://vimeo.com/424498862) - :+1: Collaborating with Git & GitHub ...
-  - [Part 2](https://vimeo.com/424519483) - ... continued & _fast forward_ vs _merge_ commits
-  - [Part 3](https://vimeo.com/424525176) - Homework explanation
-
----
-
-## [Class 11 & 12](https://github.com/hackyourfuturebelgium/class-11-12)
-
-> Stéphane, Tiago, Marie, Unmesh, Nawang, Tamer
-
-- Week 1
-  - [Part 1 - before break](https://vimeo.com/462552602)
-  - [Part 2 - before break](https://vimeo.com/462554201)
-  - [Part 3 - after break](https://vimeo.com/462555843)
-- Week 2
-  - [Part 1](https://vimeo.com/465288009)
-  - [Part 2](https://vimeo.com/465288632)
-- Week 3
-  - Collaboration Workflows: [part 1](https://vimeo.com/manage/467646196/general), [part 2](https://vimeo.com/manage/467646011/general)
-
----
-
-## [Class 13 & 14](https://github.com/hackyourfuturebelgium/class-13-14)
-
-> Tiago, Unmesh, Tamer, Stéphane
-
-- Week 1
-  - [Being a Developer](https://vimeo.com/509473608)
-  - [Being a Developer & Planning](https://vimeo.com/509474038)
-  - [Planning and Collaborating](https://vimeo.com/509474518)
-  - [Loruki Project](https://vimeo.com/509474798)
-- Week 2
-  - Week 1 review: [pt. 1](https://vimeo.com/512495839), [pt. 2](https://vimeo.com/512496591), [pt. 3](https://vimeo.com/512497168)
-  - [Step 6. Development](https://vimeo.com/512497795)
-  - [Project Intro](https://vimeo.com/512498140)
-- Week 3
-  - [Week 2 review](https://vimeo.com/515205501)
-  - Using Git & GitHub: [pt. 1](https://vimeo.com/515207339), [pt. 2](https://vimeo.com/515208557)
-
----
-
-## [Class 15](https://github.com/hackyourfuturebelgium/class-15)
-
-> Stéphane, Tiago, Tamer
-
-- Week 1
-  - [Part 1](https://vimeo.com/535753298)
-  - [Part 2](https://vimeo.com/535766995)
-
-- [Week 2](https://vimeo.com/538629299)
-
-- Week 3
-  - [Part 1](https://vimeo.com/541538352)
-  - [Part 2](https://vimeo.com/541552712)
 
 
 [TOP](#incremental-development)
